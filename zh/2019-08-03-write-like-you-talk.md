@@ -54,9 +54,9 @@ You don't need complex sentences to express complex ideas. When specialists in s
 
 Informal language is the athletic clothing of ideas.
 
-~~某种程度上,随意的交流方式就是思想的运动服.~~ 
+某种程度上,~~随意的交流方式就是思想的运动服.~~ 
 
-通俗的表达是思想的小钢炮.
+通俗的表达就如同思想的小钢炮.
 
 > 存疑
 
