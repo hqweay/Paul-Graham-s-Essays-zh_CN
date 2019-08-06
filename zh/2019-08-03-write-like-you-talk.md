@@ -50,11 +50,13 @@ If you want people to read and understand what you write, yes. Written language 
 
 You don't need complex sentences to express complex ideas. When specialists in some abstruse topic talk to one another about ideas in their field, they don't use sentences any more complex than they do when talking about what to have for lunch. They use different words, certainly. But even those they use no more than necessary. And in my experience, the harder the subject, the more informally experts speak. Partly, I think, because they have less to prove, and partly because the harder the ideas you're talking about, the less you can afford to let language get in the way.
 
-并不是复杂的句子才能阐释晦涩的概念.当研究深奥问题的专家们互相讨论各自领域的研究时,那种讨论氛围就如同在谈论早上吃了啥一样简单.当然,他们会使用一些生涩的术语,但也仅限于不可避免时.在我的经验里,一个话题越难,专家们谈论起来就越不那么正式.我认为一部分原因是源于他们的谨慎,另一部分原因则是,一个领域越复杂,能用语言表达的东西就越少.
+并不是复杂的句子才能阐释晦涩的概念.当研究深奥问题的专家们互相讨论各自领域的研究时,那种讨论氛围就如同在谈论早上吃了啥一样简单.当然,他们会使用一些生涩的术语,但也仅限于不可避免时.在我的经验里,一个话题越难,专家们谈论起来就越不那么~~正式~~ 讲究.我认为一部分原因是源于他们的谨慎,另一部分原因则是,一个领域越复杂,能用语言表达的东西就越少.
 
 Informal language is the athletic clothing of ideas.
 
-某种程度上,随意的交流方式就是思想的运动服.
+~~某种程度上,随意的交流方式就是思想的运动服.~~ 
+
+通俗的表达是思想的小钢炮.
 
 > 存疑
 
